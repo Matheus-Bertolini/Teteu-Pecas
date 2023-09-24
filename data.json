@@ -1,0 +1,73 @@
+{
+    "instrumentos": [
+        {
+            "imagem": "img/1.jpg",
+            "nome": "Monitor",
+            "preco": "R$178,45",
+            "pagamento": "2x R$91,45 com juros"
+        },
+
+        {
+            "imagem": "img/2.jpg",
+            "nome": "Teclado Gaming Mecânico ",
+            "preco": "R$559,90",
+            "pagamento": "À Vista ou até 12x de R$ 51,84 com juros"
+        },
+
+        {
+            "imagem": "img/3.jpg",
+            "nome": "mouse Óptico backlight laptop PC computador",
+            "preco": "R$144,00",
+            "pagamento": "2x R$73,80 com juros"
+        },
+
+        {
+            "imagem": "img/4.jpg",
+            "nome": "Placa gráfica de vídeo",
+            "preco": "R$18,76 / lote",
+            "pagamento": "1% off extra"
+        },
+
+        {
+            "imagem": "img/5.jpg",
+            "nome": "GABINETE GAMER RISE MODE GALAXY",
+            "preco": "R$757,69",
+            "pagamento": "2x R$388,31 com juros"
+        },
+
+        {
+            "imagem": "img/6.jpg",
+            "nome": "mouse pad, jogos acessórios",
+            "preco": "R$34,79",
+            "pagamento": "8% off extra"
+        },
+
+        {
+            "imagem": "img/7.jpg",
+            "nome": "Memória RAM DDR3 Desktop DIMM, 4GB, 8GB, 16GB",
+            "preco": "R$155,91",
+            "pagamento": " 2x R$79,90 com juros"
+        },
+
+        {
+            "imagem": "img/8.jpg",
+            "nome": "1TB Discos Rígidos",
+            "preco": "R$20,02",
+            "pagamento": "R$6,38 desc"
+        },
+
+        {
+            "imagem": "img/9.jpg",
+            "nome": "Ventilador de refrigeração, 6 tubos de calor, 120mm, 4 pinos, PWM, RGB, Intel LGA 1700",
+            "preco": "R$172,18",
+            "pagamento": "2x R$88,24 com juros"
+        },
+
+        {
+            "imagem": "img/10.jpg",
+            "nome": "Alto-falantes USB com fio, alto-falante portátil para PC",
+            "preco": "R$41,19",
+            "pagamento": "2x R$21,10 com juros"
+        }
+    ]
+}
